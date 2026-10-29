@@ -2,6 +2,8 @@
 
 A sophisticated multi-agent system for intelligent data processing and analysis using LangGraph. This project demonstrates a complete implementation of an agentic architecture with specialized sub-agents for SQL operations and ETL workflows.
 
+This is an End-To-End Agentic AI Project where i will build a complete Data Agent having multiple subagents such as SQL Analyst, ETL Analyst, Router Agent etc. The tech stack used for Agentic AI such as Langchain, LangGraph, Pydantic, ReAct Agent Architecture, Routuer Architecture, AI as a Judge, Python, PostgreSQL, Databases, Context Engineering etc.
+
 
 
 ## 🎯 Overview
